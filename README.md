@@ -1,8 +1,4 @@
 ### Hi there 👋
-<p>I’m currently working on MPR</p>
-<p>I’m currently working on CTL Computer</p>
-<p>I’m currently working on CTL Blacklist</p>
-
 <!--
 **BlackBKP/BlackBKP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
